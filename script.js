@@ -61,4 +61,8 @@ window.addEventListener("load", function() {
           event.preventDefault();
        }
     });
+<<<<<<< HEAD
  });
+=======
+ });
+>>>>>>> f43c8f76a13ebd0d77ea4d343e0d20d8e39e0e1e
